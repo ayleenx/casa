@@ -1,0 +1,85 @@
+.base {
+	width: 100px;
+	height: 100px;
+	background-color: #9A638D;
+	margin-left: 20px;
+}
+
+.puerta{
+	width: 30px;
+	height: 60px;
+	background-color: purple;
+	margin: auto;
+	top:40%;
+	position: relative;
+}
+
+.techo{
+	width: 0;
+	height: 0;
+	border-left: 70px solid transparent;
+	border-right: 70px solid transparent;
+	border-bottom: 100px solid #782F00;
+}
+
+.chimenea{
+	width: 30px;
+	height: 50px;
+	background-color: #782F00;
+	margin-left: 20px;
+	position: relative;
+	right: 10px;
+	top: 10px;
+
+
+}
+.humo{
+	width: 40px;
+	height: 40px;
+	background: #97978A;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	right: -120px;
+
+}
+
+.humo2{
+	width: 30px;
+	height: 30px;
+	background: #97978A;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	right: -90px;
+	
+
+}
+
+.moom {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  box-shadow: 15px 15px 0 0 #D7D7D7;
+  position: relative;
+  top: 30px;
+  right: -30;
+}
+
+.manija {
+	width: 5px;
+	height: 5px;
+	background: #FFFFFF;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	position: relative;
+	top: 30px;
+	margin-left: 23px;
+}
+
+
+
+
